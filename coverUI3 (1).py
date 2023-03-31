@@ -109,7 +109,7 @@ class MainWindow(QMainWindow):
             particular_person_edit = 'Sehr geehrte Damen und Herren'
 
         # import openai
-        # openai.api_key ="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"
+        # openai.api_key ="xxxxxx"
         # prompt = f' {self.position_name_edit.text()} cover letter 200 words at {self.company_name_edit.text()}  to {particular_person_edit}'
         # model = "text-curie-001"
 
